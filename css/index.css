@@ -1,0 +1,29 @@
+header {
+    background-color: #000000;
+    color: white;
+    font-size: 24pt;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    background-color: gainsboro;
+    width: 200px;
+    float: left;
+}
+nav ul {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 14pt;
+    color: navy;
+}
+
+nav ul li a:hover {
+    color: paleturquoise;
+}
